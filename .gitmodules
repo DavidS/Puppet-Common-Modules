@@ -1,0 +1,18 @@
+[submodule "modules/common"]
+	path = modules/common
+	url = .git
+[submodule "modules/apache"]
+	path = modules/apache
+	url = .git
+[submodule "modules/collectd"]
+	path = modules/collectd
+	url = .git
+[submodule "modules/munin"]
+	path = modules/munin
+	url = .git
+[submodule "modules/nagios"]
+	path = modules/nagios
+	url = .git
+[submodule "modules/ssh"]
+	path = modules/ssh
+	url = .git
